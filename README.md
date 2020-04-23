@@ -18,7 +18,7 @@ This is a made-up data for customers visiting a restaurant. It has 100 records o
 * <b> daily_amount_spent:</b>  Daily average amount spent by the customer at the restaurant during the entire day. It is a average of totals of all the visits in one day by each customer.
 * <b> number_of_items_ordered:</b>  Daily average number of items ordered by the customer.
 * <b> non_vegetarian:</b>  This is a binary (i.e. yes or no) answer. 'yes' indicates customer prefers non-vegetarian meal. 'no' indicates otherwise.
-* <b> employee_name:</b>  This is the name of the employer for the customer. 
+* <b> employer_name:</b>  This is the name of the employer for the customer. 
 * <b> breakfast:</b>  This is a binary (i.e. yes or no) answer. Does the customer come to the restaurant for breakfast?
 * <b> coffee:</b>  This is a binary (i.e. yes or no) answer. Does the customer come to the restaurant for breakfast?
 * <b> tea:</b>  This is a binary (i.e. yes or no) answer. Does the customer come to the restaurant for breakfast?
